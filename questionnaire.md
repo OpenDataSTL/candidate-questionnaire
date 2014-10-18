@@ -5,6 +5,7 @@ We’re sending local candidates in the November 2014 elections this survey to h
 If you are unfamiliar with the issue of Open Data, we invite you to review the included FAQ. If you have any questions, or are interested in meeting with members of the local open data community, feel free to email ------------.
 
 Thank you for your time,
+
 OpenDataSTL Contributors
 
 Please note, your responses will be published by OpenDataSTL and/or shared with media.
@@ -17,15 +18,15 @@ Please note, your responses will be published by OpenDataSTL and/or shared with 
 
 4. Many datasets controlled by municipalities/counties are made up exclusively of legally public data. Do you support making such datasets available online for public reuse the default transparency and openness policy for the city within one year of taking office?
 
-Yes  |  No   (Circle One)
+    Yes  |  No   (Circle One)
 
-Comments:
+    Comments:
 
 5. Do you support making city/county open data sets available in the most standard, non-proprietary, reusable, and machine readable format possible the default policy?
 
-Yes  |  No  (Circle One)
+    Yes  |  No  (Circle One)
 
-Comments:
+    Comments:
 
 6. What process will you uses to determine which city/county controlled datasets should not be shared with the public online in an open standard way (e.g. via a city/county open data online repository)? 
 
@@ -37,8 +38,11 @@ Comments:
 
 ##What is Open Data?
 Most often, ‘open data’ refers to the idea that data controlled by a government body should be accessible to citizens and other government bodies in a structured format. The concept of open data can be broken down into three levels:
+
 1. Legal access to data - Citizens have the basic right to access government data
+
 2. Reasonable access to data - Government data can be accessed at a reasonable cost and within a reasonable time frame
+
 3. Access to structured data - Government data can be retrieved in an open format that computer programs can readily understand and process. For example, a CSV is an open, structured format, while a PDF is not.
 
 ##What is an Open Standard?
